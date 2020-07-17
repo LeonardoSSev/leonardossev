@@ -1,16 +1,27 @@
+## PT-BR
+
+### Olá 👋
+
+🔭 Atualmente eu estou trabalhando na [Sinqia](https://www.sinqia.com.br/)
+
+🌱 Atualmente estou aprendendo Java (Spring Boot) e javaScript (Node.js e frameworks para SPA).
+
+💬 Me pergunte sobre desenvolvimento full stack, gerenciamento de projetos, músicas e League of Legends.
+
+📫 Como falar comigo: [Twitter](https://www.twitter.com/@leonardossev) ou [LinkedIn](https://www.linkedin.com/in/leonardossev).
+
+😄 Pronomes: Ele/dele.
+
+## EN
+
 ### Hi there 👋
 
-<!--
-**LeonardoSSev/leonardossev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [Sinqia](https://www.sinqia.com.br/).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Java (Spring Boot) and JavaScript (Node.js and SPA frameworks).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about full stack development, projects management, music and League of Legends.
+
+📫 How to reach me: [Twitter](https://www.twitter.com/@leonardossev) or [LinkedIn](https://www.linkedin.com/in/leonardossev).
+
+😄 Pronouns: He/his/him.
