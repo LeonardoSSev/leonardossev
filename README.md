@@ -16,7 +16,7 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on [Sinqia](https://www.sinqia.com.br/).
+🔭 I’m currently working at [Sinqia](https://www.sinqia.com.br/).
 
 🌱 I’m currently learning Java (Spring Boot) and JavaScript (Node.js and SPA frameworks).
 
